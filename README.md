@@ -43,7 +43,7 @@
     </p>
 <br>
 
-<summary> Contato </summary>
+<summary> Contact </summary>
 <br>
     <p align="center">
         <a href="mailto:giovanarocha656@gmail.com">
