@@ -1,8 +1,8 @@
 ## Hi there, I'm Giovana 👋✨
 
-- 🔭 I’m currently working on a scientific initiation in the communication layer of the Intelligent Space of the IFES Guarapari.
+- 🔭 I’m currently working on a EDP Espírito Santo.
 - 🌱 I’m currently learning about kubernetes and AMQP.
-- ⚡ Studying Electrical Engeneering.
+- ⚡ Electrical Engeneering.
 
 <p>
 <div align="center">
