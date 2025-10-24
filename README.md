@@ -1,7 +1,6 @@
 ## Hi there, I'm Giovana 👋✨
 
 - 🔭 I’m currently working on a EDP Espírito Santo.
-- 🌱 I’m currently learning about kubernetes and AMQP.
 - ⚡ Electrical Engeneering.
 
 <p>
