@@ -1,7 +1,10 @@
 ## Hi there, I'm Giovana 👋✨
 
-- 🔭 I’m currently working on a EDP Espírito Santo.
-- ⚡ Electrical Engeneering.
+- 🔌 Electrical Engineer transitioning into Data & Software Engineering.
+- 🔭 Currently working at EDP Espírito Santo, focusing on data processing, analytics and automation using **Databricks** and **PySpark**.
+- 💻 Experience in **Web Development**, **Python**, and **SQL Server**, participating in end-to-end delivery of backend and data-driven solutions.
+- 📡 Hands-on experience with **Publish/Subscribe communication models**, **RabbitMQ**, and containerized applications using **Kubernetes** to build scalable and distributed systems.
+- 🚀 Passionate about solving problems, optimizing datasets, and designing efficient data pipelines and services.
 
 <p>
 <div align="center">
